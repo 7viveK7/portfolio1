@@ -11,8 +11,8 @@ function AboutCard() {
             Hi Everyone, I am{" "}
             <span className="purple">Vivekananda Malladi </span>
             from <span className="purple"> Andhra pradesh, India.</span>
-            <br />I am a junior pursuing IMSC in Maths and Computing in BIT
-            Mesra.
+            <br />I am a graduate from Rajiv Gandhi University of Knowledge
+            Technologies, Nuzvid, with a bachelor's degree in engineering
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
@@ -21,9 +21,7 @@ function AboutCard() {
             <li className="about-activity">
               <ImPointRight /> Playing Games
             </li>
-            <li className="about-activity">
-              <ImPointRight /> Writting Tech Blogs
-            </li>
+
             <li className="about-activity">
               <ImPointRight /> Travelling
             </li>
